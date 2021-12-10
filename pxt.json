@@ -1,0 +1,41 @@
+{
+    "name": "JLTest1v2-23",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "controller": "*",
+        "palette": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.1",
+        "Sprite Grid": "github:microsoft/arcade-grid#v1.3.0",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.1",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.1.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.4.44",
+        "tag": "v1.4.44",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/a22995c560b516a501328716333b8cc8caf7cc9c",
+        "target": "1.7.24",
+        "pxt": "6.12.26",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
