@@ -948,7 +948,7 @@ game.onUpdate(function () {
 game.onUpdate(function () {
     healthStatusBar.value = playerHealth
     if (playerHealth <= 0) {
-        game.over(false, effects.dissolve)
+        game.over(false, effects.confetti)
     }
 })
 game.onUpdate(function () {

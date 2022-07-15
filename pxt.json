@@ -1,5 +1,5 @@
 {
-    "name": "JLTest1v2-23",
+    "name": "JLTest1v2-23c",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -30,7 +30,7 @@
         "branch": "v1.4.44",
         "tag": "v1.4.44",
         "commits": "https://github.com/microsoft/pxt-arcade/commits/a22995c560b516a501328716333b8cc8caf7cc9c",
-        "target": "1.7.24",
+        "target": "1.8.29",
         "pxt": "6.12.26",
         "targetId": "arcade"
     },
